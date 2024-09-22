@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Lab Exam 02</string>
+
+    <string-array name="dropdown_items_1">
+        <item>Every 6 hour</item>
+        <item>Every 12 hour</item>
+        <item>Every 24 hour</item>
+    </string-array>
+
+    <string-array name="dropdown_items_2">
+        <item>After Meal</item>
+        <item>Before Meal</item>
+    </string-array>
+
+    <string-array name="dropdown_items_3">
+        <item>10min</item>
+        <item>15min</item>
+        <item>30min</item>
+        <item>40min</item>
+        <item>1h</item>
+    </string-array>
+
+    <string name="select_symptom_prompt">Select Your Symptom</string>
+    <string name="symptom_description">Symptom Description</string>
+    <string name="save">Save</string>
+    <string name="history_of_symptom">History of the Symptom</string>
+    <string name="pain_description">Pain: Sharp, dull, throbbing, or aching.</string>
+    <string name="fever_description">Fever: Elevated body temperature.</string>
+    <string name="cough_description">Cough: Persistent or dry cough.</string>
+    <string name="headache_description">Headache: Pain in the head or upper neck.</string>
+    <string name="dizziness_description">Dizziness: Feeling lightheaded or unsteady.</string>
+    <string-array name="symptoms_array">
+        <item>Pain</item>
+        <item>Fever</item>
+        <item>Cough</item>
+        <item>Headache</item>
+        <item>Dizziness</item>
+    </string-array>
+
+</resources>
